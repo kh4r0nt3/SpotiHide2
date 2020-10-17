@@ -36,9 +36,7 @@ self.__redirect_uri = 'http://localhost:8080/callback'
 Main Menu > 1
 
 Spotify > help
-```
 
-```console
 [*] Usage GUI:  show local
                 add PLAYLIST
 ```
@@ -47,9 +45,7 @@ Spotify > help
 Main Menu > 2
 
 Spotify > help
-```
 
-```console
 [*] Usage API:
                 show artists
                 show tracks
