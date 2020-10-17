@@ -1,11 +1,11 @@
 # SpotiHide2
 
 <p align="center">
-<b>Steganographic tool for data exfiltration</b>
+<b>A steganographic tool for data exfiltration</b>
 </p>
 
 <p align="center">
-<img src="./images/SpotiHide2.png"/>
+<img src="./images/SpotiHide2.PNG"/>
 </p>
 
 ## Installation
