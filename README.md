@@ -32,7 +32,7 @@ self.__redirect_uri = 'http://localhost:8080/callback'
 ```
 
 ## Usage
-```bash
+```text
 Main Menu > 1
 
 Spotify > help
@@ -41,7 +41,7 @@ Spotify > help
                 add PLAYLIST
 ```
 
-```bash
+```text
 Main Menu > 2
 
 Spotify > help
