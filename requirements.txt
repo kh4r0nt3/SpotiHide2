@@ -1,0 +1,5 @@
+spotipy
+pywinauto
+colored
+progressbar2
+terminaltables
