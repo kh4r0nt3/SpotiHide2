@@ -24,7 +24,7 @@ $ pip install -r requirements.txt
 
 To get started, create a (free) developer account https://developer.spotify.com/dashboard/. Once logged in, create a new Application, you can use http://localhost:8080/callback for redirect URI. Get your Client ID and retrieve your Client Secret. Open lib/spotihideapi.py and edit the enviromental variables:
 
-```console
+```bash
 self.__username = ''
 self.__client_id = ''
 self.__client_secret = '' 
@@ -32,12 +32,24 @@ self.__redirect_uri = 'http://localhost:8080/callback'
 ```
 
 ## Usage
-```console
-Spotify > help
+```bash
+Main Menu > 1
 
+Spotify > help
+```
+
+```console
 [*] Usage GUI:  show local
                 add PLAYLIST
+```
 
+```bash
+Main Menu > 2
+
+Spotify > help
+```
+
+```console
 [*] Usage API:
                 show artists
                 show tracks
